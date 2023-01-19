@@ -1,2 +1,4 @@
 This is chapter 2.
 My second created file using terminal.
+
+I have added an alien plot
