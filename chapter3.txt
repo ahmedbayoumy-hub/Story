@@ -1,3 +1,5 @@
 This is chapter 3.
 
 My third file using terminal.
+
+I have added an alien plot.
